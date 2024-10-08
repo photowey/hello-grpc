@@ -1,2 +1,3 @@
 # hello-grpc
-An example gRPC(tonic) project in Rust.
+
+An example `gRPC`(`tonic`) project in Rust.
